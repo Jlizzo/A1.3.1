@@ -1,0 +1,26 @@
+<!--my name is Jody and I almost forgot this comment-->
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<link rel="stylesheet" href="main.css">
+</head>
+<body>
+<h1 style="background-color:#ff33cc;">This is My First Exposure to Coding...Ever</h1>
+<p style="font-family:chiller; font-size:60px;">I have no idea what I'm doing and it's awesome!
+<br>
+<img src="learntocodenerd.jpg" title="Visual Analogy of Binary" alt="Visual Analogy of Binary" style="height:200px; width=260px;">
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<footer>Footer</footer>
+</body>
+</html>
